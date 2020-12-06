@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# CS1717: 同じ変数に代入されました
+dotnet_diagnostic.CS1717.severity = none
